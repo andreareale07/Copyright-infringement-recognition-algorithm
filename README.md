@@ -1,5 +1,11 @@
 # Copyright-infringement-recognition-algorithm
 
+Tecnologie utilizzate:
+- Python
+- Nozioni di computer vision
+- SIFT, SURF
+- Jupyter 
+
 L’obiettivo del software sviluppato è di preservare il copyright di video caricati in un’ipotetica
 piattaforma. Quando l’utente richiede l’upload di un video, il gestore dovrebbe effettuare dei
 controlli sul contenuto in possesso dall’utente. Per preservare i diritti d’autore di fronte al
